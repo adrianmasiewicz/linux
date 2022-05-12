@@ -10,3 +10,8 @@
 - cd ~ przejście do katalogu domowego
 - cd - przejście do ostatnio widocznego katalogu
 - cd / przejście do katalogu głównego
+
+* ls ("list files") wypisanie informacji o plikach
+- ls -a pokazuje ukryte pliki
+- ls -1 pokazuje po jednym pliku w lini
+- ls -s pokazuje rozmaiar pliku
