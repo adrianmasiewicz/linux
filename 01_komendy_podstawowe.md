@@ -19,3 +19,5 @@
 - ls -a pokazuje ukryte pliki
 - ls -1 pokazuje po jednym pliku w lini
 - ls -s pokazuje rozmaiar pliku
+
+* clean Czyści widok okna konsoli
