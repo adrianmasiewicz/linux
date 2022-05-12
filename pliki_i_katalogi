@@ -1,0 +1,12 @@
+============================ #01 Pliki i katalogi ===================================
+
+===== #01.1  komendy podstawowe =====================================================
+
+* pwd ("print working directory")  Wypisanie nazwy bieżącego katalogu roboczego
+
+* cd ("change directory") Zmiana bieżącego katalogu powłoki
+- cd . przejście do aktualnego katalogu
+- cd .. przejście do katalogu wyżej
+- cd ~ przejście do katalogu domowego
+- cd - przejście do ostatnio widocznego katalogu
+- cd / przejście do katalogu głównego
