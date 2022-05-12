@@ -12,5 +12,6 @@
 * rm file.cpp ("remove") Usuwa plik o nazwie file.cpp
 - rm -rf file.cpp usuwanie całego katalogu wraz z zawartością
 
-* mkdir directory Tworzy posty katalog o nazwie directory
+* mkdir directory ("make directores") Tworzy posty katalog o nazwie directory
 
+* rmdir directory ("remove empty directores") Usuwa pusty katalog o nazwie directoryi
