@@ -20,4 +20,4 @@
 - ls -1 pokazuje po jednym pliku w lini
 - ls -s pokazuje rozmaiar pliku
 
-* clean Czyści widok okna konsoli
+* clear Czyści widok okna konsoli
